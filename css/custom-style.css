@@ -1,3 +1,125 @@
+.background-green {
+  background-color: green !important;
+}
 
+.background-red {
+  background-color: red !important;
+}
+
+.background-yellow {
+  background-color: yellow !important;
+}
+
+.background-pink {
+  background-color: pink !important;
+}
+
+.background-brown {
+  background-color: brown !important;
+}
+
+.background-black {
+  background-color: black !important;
+}
+
+.background-white {
+  background-color: white !important;
+}
+
+.background-grey {
+  background-color: grey !important;
+}
+
+.background-beige {
+  background-color: beige !important;
+}
+
+.background-orange {
+  background-color: orange !important;
+}
+
+.background-blue {
+  background-color: blue !important;
+}
+
+.background-violet {
+  background-color: violet !important;
+}
+
+.button-green {
+  background-color: green !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-red {
+  background-color: red !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-yellow {
+  background-color: yellow !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-pink {
+  background-color: pink !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-brown {
+  background-color: brown !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-black {
+  background-color: black !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-white {
+  background-color: white !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-grey {
+  background-color: grey !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-beige {
+  background-color: beige !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-orange {
+  background-color: orange !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-blue {
+  background-color: blue !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+.button-violet {
+  background-color: violet !important;
+  border-radius: 40px;
+  font-size: 10px;
+}
+
+header {
+  margin-bottom: 100px !important;
+}
 
 /*# sourceMappingURL=custom-style.css.map */

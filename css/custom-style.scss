@@ -1,1 +1,20 @@
 @import "../utils/colors";
+
+@each $color, $value in $listColor {
+  .background-#{$color} {
+    background-color: $value !important;
+  }
+}
+
+@each $color, $value in $listColor {
+  .button-#{$color} {
+    background-color: $value !important;
+    border-radius: 40px;
+    font-size: 10px;
+  }
+}
+
+header{
+  margin-bottom: 100px !important;
+}
+
